@@ -9,3 +9,6 @@ env/
 # Arquivos temporários do python
 __pycache__/
 *.pyc
+
+# Configuração do meu VS Codium
+.vscode/
