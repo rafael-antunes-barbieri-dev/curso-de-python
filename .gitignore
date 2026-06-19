@@ -10,5 +10,5 @@ env/
 __pycache__/
 *.pyc
 
-# Configuração do meu VS Codium
+# Configuração do meu VS Code
 .vscode/
